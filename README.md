@@ -1,9 +1,9 @@
 # Recipe
 
-Ingredients:
-1 graham cracker
-1 marshmallow
-1 chocolate bar
+Ingredients:  
+1 graham cracker  
+1 marshmallow  
+1 chocolate bar  
 
 Steps:
 1.Roast the marshmallow over a fire until golden brown and swelled.
